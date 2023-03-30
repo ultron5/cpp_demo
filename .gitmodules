@@ -1,3 +1,0 @@
-[submodule "rpc/RpcCore"]
-	path = rpc/RpcCore
-	url = git@github.com:shuai132/RpcCore.git
